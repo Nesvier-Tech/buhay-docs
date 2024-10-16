@@ -11,9 +11,11 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Deployment Architecture v0.0.1.md"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Deployment Architecture v0.0.1.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Deployment Architecture v0.0.1.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Deployment Architecture v0.0.1.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -170,9 +172,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Deployment Architecture v0.0.1.md",
-    "Deployment Architecture v0.0.1.md",
+    "Deployment Architecture/v0.0.1/Deployment Architecture v0.0.1.md",
+    "Deployment Architecture/v0.0.1",
+    "Deployment Architecture",
+    "Deployment Architecture/v0.0.1/Excalidraw/Deployment Architecture v0.0.1.md",
     "Welcome.md",
-    "Excalidraw"
+    "Deployment Architecture/v0.0.1/Excalidraw"
   ]
 }
