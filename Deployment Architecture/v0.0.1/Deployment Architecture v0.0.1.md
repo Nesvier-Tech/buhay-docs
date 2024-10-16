@@ -37,8 +37,3 @@
 - **Rescue Teams**: The teams that respond to SOS alerts, notified by the dispatcher.
 
 - **Firebase Authentication**: Manages user authentication and authorization for secure access to the application.
-
-
-### Summary
-
-This architecture ensures that **Buhay** is capable of handling real-time SOS alerts while providing dispatchers with efficient routing information. The combination of various databases, CI/CD automation, and the use of modern frameworks like Flutter and Mapbox enhances the app's responsiveness and user experience, while the deployment on a VM with Docker ensures scalability and manageability.
