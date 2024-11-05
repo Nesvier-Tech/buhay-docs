@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "27276e939defdede",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "a66fd0e560a4d9b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Deployment Architecture/v0.0.1/Deployment Architecture v0.0.1.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Deployment Architecture/v0.0.1/Excalidraw/Information System Architecture.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Information System Architecture.excalidraw"
             }
           }
         ]
@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +66,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 200
   },
   "right": {
     "id": "da674d09577f26f4",
@@ -85,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deployment Architecture/v0.0.1/Deployment Architecture v0.0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deployment Architecture/v0.0.1/Deployment Architecture v0.0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deployment Architecture/v0.0.1/Deployment Architecture v0.0.1.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -134,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -142,15 +154,28 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "351788b8b7a1a134",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +185,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
@@ -170,15 +195,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a66fd0e560a4d9b9",
   "lastOpenFiles": [
+    "Deployment Architecture/v0.0.1/Information System Architecture.md",
+    "Deployment Architecture/v0.0.1/Excalidraw/Information System Architecture.excalidraw.md",
+    "Deployment Architecture/v0.0.1/Deployment Architecture v0.0.1.md",
+    "Deployment Architecture/v0.0.1/Excalidraw/Deployment Architecture v0.0.1.md",
+    "Excalidraw",
+    "Untitled.md",
+    "2024-11-05.md",
+    "Untitled.canvas",
     "Deployment Architecture/Untitled.md",
     "Deployment Architecture/v0.0.2",
-    "Deployment Architecture/v0.0.1/Deployment Architecture v0.0.1.md",
     "Welcome.md",
     "Deployment Architecture/v0.0.1",
     "Deployment Architecture",
-    "Deployment Architecture/v0.0.1/Excalidraw/Deployment Architecture v0.0.1.md",
     "Deployment Architecture/v0.0.1/Excalidraw"
   ]
 }
